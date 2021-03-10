@@ -1,0 +1,18 @@
+{
+  "name": "node_express_crud",
+  "version": "1.0.0",
+  "description": "Web app and API RESTful made with Node.JS and Express framework",
+  "main": "(app.js)",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejs-crud"
+  },
+  "author": "Lucas Angelo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
